@@ -4,6 +4,7 @@ OpenAI's [Bipedal Walker](https://gymnasium.farama.org/environments/box2d/bipeda
 
 ### Reinforcement Learning algorithm used: Proximal Policy Optimization
 
+![BipedalWalkerHardcore](https://github.com/NicolasKeita/Runner_AI/assets/26335370/7005ac5e-99ce-4d2c-8b33-64023f649a67)
 
 ### Usages : 
 ```
